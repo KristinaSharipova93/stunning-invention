@@ -11,7 +11,7 @@ def old_answer():
     rez,cheat_sheet = cheat_sheet,''
     return rez
 
-if __name__ == 'main':
+if __name__ == '__main__':
     memory = [
         ('ты меня слышишь?', 'да'),
         ('ты меня слышишь?', 'нет'),
